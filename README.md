@@ -34,4 +34,8 @@ $ pip install psycopg2-binary
 
 <!-- database -->
 
+<!-- restfull apo -->
+pip install djangorestframework
+<!-- restfull apo -->
+
 
